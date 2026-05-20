@@ -28,16 +28,16 @@ MySql
 
 # TECNOLOGIAS
 
-![C#](https://shields.io)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![C++](https://shields.io)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
 # ESTATÍSTICAS
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a-s-coda&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?user=a-s-coda&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=a-s-coda&theme=tokyonight"/>
 </div>
 
