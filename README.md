@@ -2,7 +2,7 @@
 
   <img src="https://i.pinimg.com/736x/65/f0/7d/65f07d69acea169b98443765f606d2d8.jpg" style="width: 100%; height: 220px; object-fit: cover; display: block;" />
   
-  # C#   PYTHON   C++
+  # A-S-CODA
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexandre-santiago-773347385/)
   [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail)](mailto:alexandresant.contato@gmail.com)
