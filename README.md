@@ -37,7 +37,7 @@ MySql
 # ESTATÍSTICAS
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=a-s-coda&theme=dark-aura&hide_border=falso&locale=pt_BR&short_numbers=verdadeiro&mode=weekly&card_width=500)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=a-s-coda&theme=dark-aura&hide_border=falso&locale=pt_BR&short_numbers=verdadeiro&mode=weekly&card_width=500" alt="GitHub Streak" /></a>
 </div>
 
 ---
