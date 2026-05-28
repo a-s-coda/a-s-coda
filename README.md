@@ -37,7 +37,6 @@ MySql
 # ESTATÍSTICAS
 
 <div align="center">
-  <img height="180em" src="https://vercel.app"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=a-s-coda&theme=tokyonight"/>
 </div>
 
