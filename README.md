@@ -16,9 +16,9 @@
 
 ```txt
 
-Fullstack Developer & Cybersecurity
 Especialista em Python
-Desenvolvedor em C#, C++, Java
+Desenvolvedor em Jogos
+C#, C++, Java
 Html, Css, Php
 React Native
 MySql
@@ -63,5 +63,5 @@ MySql
 # GRÁFICO
 
 <div align="center">
-   ![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=a-s-coda&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-s-coda&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" />
 </div>
