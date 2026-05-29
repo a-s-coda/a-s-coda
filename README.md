@@ -63,5 +63,5 @@ MySql
 # GRÁFICO
 
 <div align="center">
-    ![Grafico de Contribuições](https://github-readme-stats.vercel.app/api?username=a-s-codatitle_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=0d1117&border_color=ff0000&show_icons=true)
+   ![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=a-s-coda&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true)
 </div>
