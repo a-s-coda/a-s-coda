@@ -12,7 +12,7 @@
 
 # SOBRE MIM
 
-<img align="right" src="https://i.pinimg.com/736x/f6/f5/ca/f6f5caee90b77fcd9acd779cab195f92.jpg" width="250"/>
+<img align="right" src="https://i.pinimg.com/736x/f6/f5/ca/f6f5caee90b77fcd9acd779cab195f92.jpg" width="300"/>
 
 <blockquote>
 <h3>Especialista em Dados com Python</h3>
