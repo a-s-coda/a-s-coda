@@ -14,10 +14,12 @@
 
 <img align="right" src="https://i.pinimg.com/736x/f6/f5/ca/f6f5caee90b77fcd9acd779cab195f92.jpg" width="250"/>
 
-- **Especialista em Dados com Python**
-- **Desenvolvedor Back End e Front End**
-- **Desenvolvedor de Jogos**
-- **Produzindo o jogo 'Melancolia Dentro de Mim' até seu lançamento oficial**
+<blockquote>
+<h3>Especialista em Dados com Python</h3>
+<h3>Desenvolvedor Back End e Front End</h3>
+<h3>Desenvolvedor de Jogos</h3>
+<h3>Produzindo o jogo 'Melancolia Dentro de Mim' até seu lançamento oficial</h3>
+</blockquote>
 
 <br clear="all">
 
