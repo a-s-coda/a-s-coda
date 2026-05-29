@@ -16,12 +16,10 @@
 
 ```txt
 
-Especialista em Python
-Desenvolvedor em Jogos
-C#, C++, Java
-Html, Css, Php
-React Native
-MySql
+Especialista em Dados com Python
+Desenvolvedor Back End e Front End
+Desenvolvedor de Jogos
+Produzindo o jogo 'Melancolia Dentro de Mim' até seu lançamento oficial
 ```
 
 ---
