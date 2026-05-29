@@ -63,5 +63,5 @@ MySql
 # GRÁFICO
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=a-s-coda&show_icons=true&theme=blood"/>
+    ![Grafico de Contribuições](https://github-readme-stats.vercel.app/api?username=a-s-codatitle_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=0d1117&border_color=ff0000&show_icons=true)
 </div>
