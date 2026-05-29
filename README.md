@@ -15,12 +15,13 @@
 <img align="right" src="https://i.pinimg.com/736x/f6/f5/ca/f6f5caee90b77fcd9acd779cab195f92.jpg" width="250"/>
 
 ```txt
-
 Especialista em Dados com Python
 Desenvolvedor Back End e Front End
 Desenvolvedor de Jogos
 Produzindo o jogo 'Melancolia Dentro de Mim' até seu lançamento oficial
 ```
+
+<br clear="all">
 
 ---
 
@@ -53,7 +54,7 @@ Produzindo o jogo 'Melancolia Dentro de Mim' até seu lançamento oficial
 # ESTATÍSTICAS
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=a-s-coda&theme=violet-dark&hide_border=falso&locale=pt_BR&short_numbers=verdadeiro&mode=weekly&card_width=500" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://herokuapp.com" alt="GitHub Streak" /></a>
 </div>
 
 ---
