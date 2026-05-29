@@ -55,8 +55,7 @@ MySql
 # ESTATÍSTICAS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=blood"/>
-
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=a-s-coda&theme=violet-dark&hide_border=falso&locale=pt_BR&short_numbers=verdadeiro&mode=weekly&card_width=500" alt="GitHub Streak" /></a>
 </div>
 
 ---
@@ -64,5 +63,5 @@ MySql
 # GRÁFICO
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-s-coda&theme=react-dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=a-s-coda&show_icons=true&theme=blood"/>
 </div>
