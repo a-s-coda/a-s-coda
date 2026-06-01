@@ -25,13 +25,16 @@
 Desde criança fui apaixonado pela arte de criar e desenvolver coisas, 
 e a área da tecnologia foi uma oportunidade para meu desenvolvimento 
 pessoal e profissional. Gosto de desenvolver e criar projetos, criar e 
-escrever histórias complexas, sou músico (guitarrista, violista e baixista), 
-escritor, desenhista e tenho grande experiência em documentação e liderança 
-de equipe
+escrever histórias complexas, sou músico (guitarrista, violista e 
+baixista), escritor, desenhista e tenho grande experiência em 
+documentação e liderança de equipe
+
+Também sou líder e diretor da equipe GD Studios
 ```
 
 <br clear="all">
-
+---
+Conheça minha equipe -> (href="https://www.instagram.com/golddesignstudios/)
 ---
 
 # LINGUAGENS
