@@ -22,7 +22,12 @@
 </blockquote>
 
 ```txt
-Desde criança fui apaixonado pela arte de criar e desenvolver coisas, e a área da tecnologia foi uma oportunidade para meu desenvolvimento pessoal e profissional. Gosto de desenvolver e criar projetos, criar e escrever histórias complexas, sou músico (guitarrista, violista e baixista), escritor, desenhista e tenho grande experiência em documentação e liderança de equipe
+Desde criança fui apaixonado pela arte de criar e desenvolver coisas, 
+e a área da tecnologia foi uma oportunidade para meu desenvolvimento 
+pessoal e profissional. Gosto de desenvolver e criar projetos, criar e 
+escrever histórias complexas, sou músico (guitarrista, violista e baixista), 
+escritor, desenhista e tenho grande experiência em documentação e liderança 
+de equipe
 ```
 
 <br clear="all">
