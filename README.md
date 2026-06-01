@@ -34,7 +34,9 @@ Também sou líder e diretor da equipe GD Studios
 
 <br clear="all">
 ---
-Conheça minha equipe -> (href="https://www.instagram.com/golddesignstudios/)
+
+Conheça minha equipe -> ![Minha equipe](href="https://www.instagram.com/golddesignstudios/)
+
 ---
 
 # LINGUAGENS
