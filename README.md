@@ -33,6 +33,7 @@ Também sou líder e diretor da equipe GD Studios
 ```
 
 <br clear="all">
+
 ---
 
 Conheça minha equipe -> ("https://www.instagram.com/golddesignstudios/)
