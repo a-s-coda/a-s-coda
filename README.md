@@ -37,7 +37,7 @@ de equipe
 
 ---
 
-<h5>Conheça minha equipe -> </h5><a href="https://www.instagram.com/golddesignstudios/" target="_blank">
+<h1>Conheça minha equipe -> </h1><a href="https://www.instagram.com/golddesignstudios/" target="_blank">
   <img src="assets/GDstudios.jpg" alt="Gold Design Studios logo" style="width: 150px; height: 70px"/>
 </a>
 
