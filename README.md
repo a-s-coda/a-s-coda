@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="top" width="6">
-      <img src="https://preview.colorkit.co/color/ff002b.png" width="6" height="2500" style="display: block;" />
+      <img alt="Static Badge" src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-ff002b" width="6" height="2500" style="display: block;" />
     </td>
   <td width="20"></td>
     <td valign="top">
