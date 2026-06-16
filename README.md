@@ -1,6 +1,7 @@
 <table>
   <tr>
-    <td valign="top" width="6" style="background-color: #fe4c25; padding: 0;">
+    <td valign="top" width="6">
+      <img src="https://placeholder.com" width="6" height="2500" alt="Linha Decorativa" style="display: block;" />
     </td>
   <td width="20"></td>
     <td valign="top">
