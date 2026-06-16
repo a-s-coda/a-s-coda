@@ -1,10 +1,11 @@
 <table>
   <tr>
     <td valign="top" width="6">
-      <img alt="Static Badge" src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-ff002b" width="6" height="2500" style="display: block;" />
+      <img alt="Static Badge" src="https://shields.io" width="6" height="2500" style="display: block;" />
     </td>
-  <td width="20"></td>
+    <td width="20"></td>
     <td valign="top">
+
   <div align="center">
 
   <img src="https://i.pinimg.com/736x/65/f0/7d/65f07d69acea169b98443765f606d2d8.jpg" style="width: 100%; height: 220px; object-fit: cover; display: block;" />
