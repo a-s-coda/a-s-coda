@@ -37,11 +37,9 @@ de equipe
 
 ---
 
-<a href="https://www.instagram.com/golddesignstudios/" target="_blank">
-  <img src="assets/GDstudios.jpg" alt="Gold Design Studios logo" style="width: 300px; height: 220px"/>
+Conheça minha equipe -> <a href="https://www.instagram.com/golddesignstudios/" target="_blank">
+  <img src="assets/GDstudios.jpg" alt="Gold Design Studios logo" style="width: 250px; height: 170px"/>
 </a>
-
-Conheça minha equipe -> [![Gold Design Studios](assets/GDstudios.jpg)]()
 
 ---
 
