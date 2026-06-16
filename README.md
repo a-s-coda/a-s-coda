@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td valign="top" width="6" style="background-color: #FE4C25; padding: 0;">
+    <td valign="top" width="6" style="background-color: #fe4c25; padding: 0;">
     </td>
   <td width="20"></td>
     <td valign="top">
