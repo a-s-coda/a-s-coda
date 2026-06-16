@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="top" width="6">
-      <img src="(https://preview.colorkit.co/color/ff002b.png?size=wallpaper&static=true)" width="6" height="2500" style="display: block;" />
+      <img src="https://preview.colorkit.co/color/ff002b.png?size=wallpaper&static=true" width="6" height="2500" style="display: block;" />
     </td>
   <td width="20"></td>
     <td valign="top">
