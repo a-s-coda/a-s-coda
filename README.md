@@ -1,8 +1,3 @@
-<table>
-  <tr>
-    <td width="20"></td>
-    <td valign="top">
-
   <div align="center">
 
   <img src="https://i.pinimg.com/736x/65/f0/7d/65f07d69acea169b98443765f606d2d8.jpg" style="width: 100%; height: 220px; object-fit: cover; display: block;" />
@@ -91,6 +86,3 @@ de equipe
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-s-coda&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" />
 </div>
-</td>
-</tr>
-</table>
