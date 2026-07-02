@@ -76,12 +76,24 @@ de equipe
 # ESTATÍSTICAS
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=a-s-coda&theme=violet-dark&hide_border=falso&locale=pt_BR&short_numbers=verdadeiro&mode=weekly&card_width=500" alt="GitHub Streak" /></a>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=a-s-coda&theme=radical&layout=donut-vertical&count_private=true&langs_count=8&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=a-s-coda&theme=radical&hide_border=true" />
+        <br><br>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=a-s-coda&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=16" />
+      </td>
+    </tr>
+  </table>
+</div>
+  <div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-s-coda&theme=radical" />
 </div>
 
 ---
-
-# GRÁFICO
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-s-coda&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" />
