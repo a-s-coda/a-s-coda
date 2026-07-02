@@ -17,7 +17,7 @@
 
 <blockquote>
 <h3>Especialista em Dados com Python</h3>
-<h3>Desenvolvedor Back End e Front End</h3>
+<h3>Desenvolvedor FullStack</h3>
 <h3>Desenvolvedor de Jogos</h3>
 <h3>Produzindo o jogo 'Melancolia Dentro de Mim' até seu lançamento oficial</h3>
 </blockquote>
