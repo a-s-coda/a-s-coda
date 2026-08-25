@@ -68,7 +68,7 @@ de equipe
 
 <h1>Conheça minha equipe </h1>
 <a href="https://www.instagram.com/golddesignstudios/" target="_blank">
-  <img src="assets/GDstudios.jpg" alt="Gold Design Studios logo" style="width: 150px; height: 120px"/>
+  <img src="assets/MelancholyTeam.png" alt="Gold Design Studios logo" style="width: 150px; height: 120px"/>
 </a>
 
 ---
