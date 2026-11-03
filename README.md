@@ -6,7 +6,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-9D00FF?style=for-the-badge&logo=linkedin$logoColor=white)](https://www.linkedin.com/in/alexandre-santiago-773347385/)
   [![Gmail](https://img.shields.io/badge/Gmail-9D00FF?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=CllgCJqXPdWnmLnHRzwSrzkHPqSDpRqzzsMVmTptWwthsHQvfBgtzDwmSdGVcvJCjSvvjnPZPFL)
-  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.s.single/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-%239D00FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.s.single/)
 </div>
 
 ---
