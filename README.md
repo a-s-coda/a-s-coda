@@ -69,10 +69,14 @@ e tenho grande experiência em documentação e liderança de equipe.
     <tr>
       <td>
         <img src="https://streak-stats.demolab.com?user=a-s-coda&theme=midnight-purple" />
+      </td>
+      <td>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-s-coda&theme=tokyonight" />
-        <br><br>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a-s-coda&theme=tokyonight&timeZone=UTC" />
-        <br><br>
       </td>
     </tr>
   </table>
