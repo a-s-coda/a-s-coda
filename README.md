@@ -68,7 +68,7 @@ e tenho grande experiência em documentação e liderança de equipe.
   <table>
     <tr>
       <td>
-        <img src="https://streak-stats.demolab.com?user=a-s-coda&theme=midnight-purple&border_radius=20&locale=pt_BR&timezone=UTC&card_width=800&card_height=250" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=a-s-coda&theme=midnight-purple" />
         <br><br>
       </td>
     </tr>
