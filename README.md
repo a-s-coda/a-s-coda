@@ -75,11 +75,5 @@ e tenho grande experiência em documentação e liderança de equipe.
   </table>
 </div>
   <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-s-coda&theme=radical" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-s-coda&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-s-coda&theme=radical&border_radius=20&locale=pt_BR&timezone=UTC&card_width=800&card_height=250" alt="GitHub Streak"" />
 </div>
