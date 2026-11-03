@@ -26,9 +26,8 @@
 Desde criança fui apaixonado pela arte de criar e desenvolver coisas, 
 e a área da tecnologia foi uma oportunidade para meu desenvolvimento 
 pessoal e profissional.
-Gosto de desenvolver e criar projetos organizados, seguros e criativos, 
-criar e escrever histórias complexas e tenho grande experiência em
-documentação e liderança de equipe.
+Gosto de desenvolver e criar projetos organizados, seguros e criativos
+e tenho grande experiência em documentação e liderança de equipe.
 ```
 
 <br clear="all">
