@@ -22,11 +22,9 @@
 </blockquote>
 
 ```txt
-Desde criança fui apaixonado pela arte de criar e desenvolver coisas, 
-e a área da tecnologia foi uma oportunidade para meu desenvolvimento 
-pessoal e profissional.
-Gosto de desenvolver e criar projetos organizados, seguros e criativos
-e tenho grande experiência em documentação e liderança de equipe.
+Resolver problemas nunca foi entediante,
+para mim, o conhecimento é a chave para
+                tudo
 ```
 
 <br clear="all">
