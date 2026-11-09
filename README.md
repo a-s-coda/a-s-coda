@@ -68,7 +68,7 @@ entediante, é a chave para as vitórias
     <tr>
       <div style="width: 80%; height: 210px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
       <td colspan="2">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a-s-coda&theme=ayu&timeZone=UTC" style="width: 100%; min-height: 100%; margin-top: -30px; margin-bottom: -30px;" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a-s-coda&theme=ayu&timeZone=UTC" style="width: 80%; min-height: 100%; margin-top: -30px; margin-bottom: -30px;" />
       </div>
       </td>
     </tr>
