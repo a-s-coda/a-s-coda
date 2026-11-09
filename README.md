@@ -67,7 +67,7 @@ entediante, é a chave para as vitórias
     </tr>
     <tr>
       <td colspan="2">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a-s-coda&theme=ayu&timeZone=UTC" width="300" object-position="center"/>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a-s-coda&theme=ayu&timeZone=UTC" width="300" object-fit="cover" object-position="center"/>
       </td>
     </tr>
   </table>
