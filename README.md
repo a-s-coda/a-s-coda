@@ -22,9 +22,9 @@
 </blockquote>
 
 ```txt
-Resolver problemas nunca foi entediante,
-para mim, o conhecimento é a chave para
-                tudo
+Resolver problemas não é uma obrigação
+entediante, é a chave para as vitórias
+              de cada dia
 ```
 
 <br clear="all">
