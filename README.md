@@ -4,9 +4,9 @@
   
   # A-S-CODA
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-9D00FF?style=for-the-badge&logo=linkedin$logoColor=white)](https://www.linkedin.com/in/alexandre-santiago-773347385/)
-  [![Gmail](https://img.shields.io/badge/Gmail-9D00FF?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=CllgCJqXPdWnmLnHRzwSrzkHPqSDpRqzzsMVmTptWwthsHQvfBgtzDwmSdGVcvJCjSvvjnPZPFL)
-  [![Instagram](https://img.shields.io/badge/-Instagram-%239D00FF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.s.single/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin$logoColor=white)](https://www.linkedin.com/in/alexandre-santiago-773347385/)
+  [![Gmail](https://img.shields.io/badge/Gmail-FCF3ED?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=CllgCJqXPdWnmLnHRzwSrzkHPqSDpRqzzsMVmTptWwthsHQvfBgtzDwmSdGVcvJCjSvvjnPZPFL)
+  [![Instagram](https://img.shields.io/badge/-Instagram-%FFFFFF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.s.single/)
 </div>
 
 ---
@@ -46,14 +46,8 @@ entediante, é a chave para as vitórias
 ![NumPy](https://img.shields.io/badge/NumPy-9D00FF.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-9D00FF.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-# GAMEDEV
-
-![C#](https://img.shields.io/badge/c%23-%239D00FF.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%239D00FF.svg?style=for-the-badge&logo=unity&logoColor=white)
-
 # FERRAMENTAS
 
-![Blender](https://img.shields.io/badge/blender-%239D00FF.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%239D00FF.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
