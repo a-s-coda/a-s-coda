@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/736x/65/f0/7d/65f07d69acea169b98443765f606d2d8.jpg" style="width: 100%; height: 220px; object-fit: cover; display: block;" />
+  <img src="https://i.pinimg.com/1200x/b7/eb/10/b7eb10cb82a074259ce540863794867f.jpg" style="width: 100%; height: 220px; object-fit: cover; display: block;" />
   
   # A-S-CODA
   
@@ -13,12 +13,10 @@
 
 # SOBRE MIM
 
-<img align="right" src="https://i.pinimg.com/736x/f6/f5/ca/f6f5caee90b77fcd9acd779cab195f92.jpg" width="300"/>
+<img align="right" src="https://i.pinimg.com/736x/e6/2b/cc/e62bccfd729c3a133deafdfc9a694ec4.jpg" width="300"/>
 
 <blockquote>
-<h3>Especialista em Dados com Python</h3>
 <h3>Desenvolvedor FullStack</h3>
-<h3>Diretor de Jogos</h3>
 
 </blockquote>
 
