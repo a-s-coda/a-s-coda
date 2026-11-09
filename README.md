@@ -56,22 +56,23 @@ entediante, é a chave para as vitórias
 # ESTATÍSTICAS
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=a-s-coda&theme=ayu" />
+      <td width="50%">
+        <img width="100%" src="https://streak-stats.demolab.com?user=a-s-coda&theme=ayu" />
       </td>
-      <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-s-coda&theme=ayu" />
+      <td width="50%">
+        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-s-coda&theme=ayu" />
       </td>
     </tr>
     <tr>
-      <td>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a-s-coda&theme=ayu&timeZone=UTC&width=1000" />
+      <td colspan="2">
+        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a-s-coda&theme=ayu&timeZone=UTC" />
       </td>
     </tr>
   </table>
 </div>
-  <div align="center">
+
+<div align="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-s-coda&theme=ayu"/>
 </div>
