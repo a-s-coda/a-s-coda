@@ -4,9 +4,9 @@
   
   # A-S-CODA
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin$logoColor=white)](https://www.linkedin.com/in/alexandre-santiago-773347385/)
-  [![Gmail](https://img.shields.io/badge/Gmail-FCF3ED?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=CllgCJqXPdWnmLnHRzwSrzkHPqSDpRqzzsMVmTptWwthsHQvfBgtzDwmSdGVcvJCjSvvjnPZPFL)
-  [![Instagram](https://img.shields.io/badge/-Instagram-%FFFFFF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.s.single/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin$logoColor=black)](https://www.linkedin.com/in/alexandre-santiago-773347385/)
+  [![Gmail](https://img.shields.io/badge/Gmail-FCF3ED?style=for-the-badge&logo=gmail&logoColor=black)](https://mail.google.com/mail/u/1/#inbox?compose=CllgCJqXPdWnmLnHRzwSrzkHPqSDpRqzzsMVmTptWwthsHQvfBgtzDwmSdGVcvJCjSvvjnPZPFL)
+  [![Instagram](https://img.shields.io/badge/-Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/a.s.single/)
 </div>
 
 ---
