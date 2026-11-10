@@ -58,18 +58,16 @@ entediante, é a chave para as vitórias
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="50%">
+      <td width="50%" align="center">
         <img width="100%" src="https://streak-stats.demolab.com?user=a-s-coda&theme=ayu" />
       </td>
-      <td width="50%">
+      <td width="50%" align="center">
         <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-s-coda&theme=ayu" />
       </td>
     </tr>
     <tr>
-      <div style="width: 80%; height: 210px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
-      <td colspan="2">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a-s-coda&theme=ayu&timeZone=UTC" style="width: 80%; min-height: 100%; margin-top: -30px; margin-bottom: -30px;" />
-      </div>
+      <td colspan="2" align="center">
+        <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a-s-coda&theme=ayu&timeZone=UTC" />
       </td>
     </tr>
   </table>
@@ -78,3 +76,4 @@ entediante, é a chave para as vitórias
 <div align="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-s-coda&theme=ayu"/>
 </div>
+
