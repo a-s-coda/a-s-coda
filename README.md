@@ -41,13 +41,11 @@
 
 # LINGUAGENS
 
-<div align="center">
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
 ![C++](https://img.shields.io/badge/c++-%FFFFFF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%FFFFFF.svg?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/css3-%FFFFFF.svg?style=for-the-badge&logo=css3&logoColor=black)
-</div>
 
 # BIBLIOTECAS
 
