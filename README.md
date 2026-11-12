@@ -47,9 +47,9 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
-![C++](https://img.shields.io/badge/c++-%23FFFFFF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black)
+![C++](https://img.shields.io/badge/c++-%23FCF3ED.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%23FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23FFFFFF.svg?style=for-the-badge&logo=html5&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23FCF3ED.svg?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/css3-%23FFFFFF.svg?style=for-the-badge&logo=css3&logoColor=black)
 
 </div>
@@ -62,8 +62,8 @@
 
 <div align="center">
 
-![NumPy](https://img.shields.io/badge/NumPy-9D00FF.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-9D00FF.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-FFFFFF.svg?style=for-the-badge&logo=numpy&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-FFFFFF.svg?style=for-the-badge&logo=pandas&logoColor=black)
 
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
 
-![Canva](https://img.shields.io/badge/Canva-%239D00FF.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%23FFFFFF.svg?style=for-the-badge&logo=Canva&logoColor=black)
 
 </div>
 
