@@ -22,8 +22,8 @@
   <table>
     <tr>
       <td align="center">
-        <h3>&nbsp;&nbsp;&nbsp;• Desenvolvedor FullStack •&nbsp;&nbsp;&nbsp;</h3>
         <br>
+        <h3>&nbsp;&nbsp;&nbsp;• Desenvolvedor FullStack •&nbsp;&nbsp;&nbsp;</h3>
         <h3>• Foco em Segurança •</h3>
         <h3>• Alta Performance •</h3>
         <h3>• Entusiasta FinTech •</h3>
