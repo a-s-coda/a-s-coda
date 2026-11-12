@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/1200x/b7/eb/10/b7eb10cb82a074259ce540863794867f.jpg" style="width: 100%; height: 220px; object-fit: cover; display: block;" />
+  <img src="https://i.pinimg.com/1200x/b7/eb/10/b7eb10cb82a074259ce540863794867f.jpg" style="width: 100%; height: 120px; object-fit: cover; display: block;" />
   
   # A-S-CODA
   
