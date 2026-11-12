@@ -13,8 +13,8 @@
 
 # SOBRE MIM
 
-<img align="right" src="./Assets/tab.png" width="320" height="534"/>
-<img align="left" src="./Assets/graph.png" width="320" height="534"/>
+<img align="right" src="./Assets/graph.png" width="320" height="534"/>
+<img align="left" src="./Assets/tab.png" width="320" height="534"/>
 
 <blockquote>
 <h4>Desenvolvedor FullStack</h4>
