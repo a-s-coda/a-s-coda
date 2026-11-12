@@ -20,11 +20,24 @@
 <br/>
 
 <div align="center">
-  <h2>• Desenvolvedor FullStack •</h2>
-  <h2>• Foco em Segurança •</h2>
-  <h2>• Alta Performance •</h2>
-  <h2>• Entusiasta FinTech •</h2>
-  <h2>• Integridade de Dados •</h2>
+  <br><br>
+  <table>
+    <tr>
+      <td align="center">
+        <br>
+        <h3>&nbsp;&nbsp;&nbsp;• Desenvolvedor FullStack •&nbsp;&nbsp;&nbsp;</h3>
+        <br>
+        <h3>• Foco em Segurança •</h3>
+        <br>
+        <h3>• Alta Performance •</h3>
+        <br>
+        <h3>• Entusiasta FinTech •</h3>
+        <br>
+        <h3>• Integridade de Dados •</h3>
+        <br>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br clear="both"/>
