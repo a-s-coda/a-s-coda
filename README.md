@@ -9,11 +9,9 @@
   [![Instagram](https://img.shields.io/badge/-Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/a.s.single/)
 </div>
 
----
-
 <div align="center">
 
-# SOBRE MIM
+<h2>SOBRE MIM</h2>
 
 </div>
 
@@ -41,10 +39,9 @@
 
 <br clear="both"/>
 
----
 <div align="center">
   
-# LINGUAGENS
+<h2>LINGUAGENS</h2>
 
 </div>
 
@@ -58,11 +55,9 @@
 
 </div>
 
----
-
 <div align="center">
 
-# BIBLIOTECAS
+<h2>BIBLIOTECAS</h2>
 
 </div>
 
@@ -73,11 +68,9 @@
 
 </div>
 
----
-
 <div align="center">
 
-# FERRAMENTAS
+<h2>FERRAMENTAS</h2>
 
 </div>
 
@@ -87,11 +80,9 @@
 
 </div>
 
----
-
 <div align="center">
 
-# ESTATÍSTICAS
+<h2>ESTATÍSTICAS</h2>
 
 </div>
 
@@ -116,4 +107,3 @@
 <div align="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-s-coda&theme=transparent"/>
 </div>
-
