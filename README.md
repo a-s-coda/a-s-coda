@@ -15,6 +15,10 @@
 
 <img align="right" src="./Assets/graph.png" width="320" height="534"/>
 <img align="left" src="./Assets/tab.png" width="320" height="534"/>
+
+<br/>
+<br/>
+
 <div align="center">
   <h4>Desenvolvedor FullStack</h4>
   <h4>Foco em Segurança</h4>
