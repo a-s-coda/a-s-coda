@@ -13,8 +13,8 @@
 
 # SOBRE MIM
 
-<img align="right" src="https://i.pinimg.com/736x/12/51/b3/1251b35557f61a3a244bdd1b5b6edd8a.jpg" width="360"/>
-<img align="left" src="https://i.pinimg.com/736x/6b/74/46/6b74466aafbad8978ef7726150a904b2.jpg" width="280"/>
+<img align="right" src="https://i.pinimg.com/736x/12/51/b3/1251b35557f61a3a244bdd1b5b6edd8a.jpg" width="320"/>
+<img align="left" src="https://i.pinimg.com/736x/6b/74/46/6b74466aafbad8978ef7726150a904b2.jpg" width="3000"/>
 
 <blockquote>
 <h3>Desenvolvedor FullStack</h3>
