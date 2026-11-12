@@ -13,8 +13,8 @@
 
 # SOBRE MIM
 
-<img align="right" src="./Assets/graph.png" width="240" height="370"/>
-<img align="left" src="./Assets/tab.png" width="240" height="370"/>
+<img align="right" src="./Assets/graph.png" width="240" height="400"/>
+<img align="left" src="./Assets/tab.png" width="240" height="400"/>
 
 <br/>
 
