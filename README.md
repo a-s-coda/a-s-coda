@@ -13,8 +13,8 @@
 
 # SOBRE MIM
 
-<img align="right" src="./Assets/graph.png" width="320" height="534"/>
-<img align="left" src="./Assets/tab.png" width="320" height="534"/>
+<img align="right" src="./Assets/graph.png" width="320" height="434"/>
+<img align="left" src="./Assets/tab.png" width="320" height="434"/>
 
 <br/>
 
@@ -22,17 +22,11 @@
   <table>
     <tr>
       <td align="center">
-        <br>
         <h3>&nbsp;&nbsp;&nbsp;• Desenvolvedor FullStack •&nbsp;&nbsp;&nbsp;</h3>
-        <br>
         <h3>• Foco em Segurança •</h3>
-        <br>
         <h3>• Alta Performance •</h3>
-        <br>
         <h3>• Entusiasta FinTech •</h3>
-        <br>
         <h3>• Integridade de Dados •</h3>
-        <br>
       </td>
     </tr>
   </table>
