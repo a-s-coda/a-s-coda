@@ -58,6 +58,8 @@
 
 </div>
 
+---
+
 <div align="center">
 
 # BIBLIOTECAS
@@ -70,6 +72,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-FFFFFF.svg?style=for-the-badge&logo=pandas&logoColor=black)
 
 </div>
+
+---
 
 <div align="center">
 
