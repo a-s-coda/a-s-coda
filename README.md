@@ -20,11 +20,11 @@
 <br/>
 
 <div align="center">
-  <h4>Desenvolvedor FullStack</h4>
-  <h4>Foco em Segurança</h4>
-  <h4>Alta Performance</h4>
-  <h4>Entusiasta FinTech</h4>
-  <h4>Integridade de Dados</h4>
+  <h2>• Desenvolvedor FullStack •</h2>
+  <h2>• Foco em Segurança •</h2>
+  <h2>• Alta Performance •</h2>
+  <h2>• Entusiasta FinTech •</h2>
+  <h2>• Integridade de Dados •</h2>
 </div>
 
 <br clear="both"/>
