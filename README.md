@@ -99,21 +99,21 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img width="100%" src="https://streak-stats.demolab.com?user=a-s-coda&theme=dark" />
+        <img width="100%" src="https://streak-stats.demolab.com?user=a-s-coda&theme=transparent" />
       </td>
       <td width="50%" align="center">
-        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-s-coda&theme=dark" />
+        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-s-coda&theme=transparent" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a-s-coda&theme=dark&timeZone=America/Sao_Paulo" />
+        <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a-s-coda&theme=transparent&timeZone=America/Sao_Paulo" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-s-coda&theme=dark"/>
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-s-coda&theme=transparent"/>
 </div>
 
