@@ -4,8 +4,8 @@
   
   # A-S-CODA
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin$logoColor=black)](https://www.linkedin.com/in/alexandre-santiago-773347385/)
-  [![Gmail](https://img.shields.io/badge/Gmail-FCF3ED?style=for-the-badge&logo=gmail&logoColor=black)](https://mail.google.com/mail/u/1/#inbox?compose=CllgCJqXPdWnmLnHRzwSrzkHPqSDpRqzzsMVmTptWwthsHQvfBgtzDwmSdGVcvJCjSvvjnPZPFL)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/alexandre-santiago-773347385/)
+  [![Gmail](https://img.shields.io/badge/Gmail-FCF3ED?style=for-the-badge&logo=gmail&logoColor=black)](https://mailto:alexandresant.contato@gmail.com)
   [![Instagram](https://img.shields.io/badge/-Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/a.s.single/)
 </div>
 
@@ -99,21 +99,21 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img width="100%" src="https://streak-stats.demolab.com?user=a-s-coda&theme=ayu" />
+        <img width="100%" src="https://streak-stats.demolab.com?user=a-s-coda&theme=dark" />
       </td>
       <td width="50%" align="center">
-        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-s-coda&theme=ayu" />
+        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-s-coda&theme=dark" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a-s-coda&theme=ayu&timeZone=UTC" />
+        <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a-s-coda&theme=dark&timeZone=America/Sao_Paulo" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-s-coda&theme=ayu"/>
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-s-coda&theme=dark"/>
 </div>
 
