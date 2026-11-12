@@ -38,8 +38,11 @@
 <br clear="both"/>
 
 ---
-
+<div align="center">
+  
 # LINGUAGENS
+
+</div>
 
 <div align="center">
 
@@ -51,19 +54,38 @@
 
 </div>
 
+<div align="center">
+
 # BIBLIOTECAS
+
+</div>
+
+<div align="center">
 
 ![NumPy](https://img.shields.io/badge/NumPy-9D00FF.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-9D00FF.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+</div>
+
+<div align="center">
+
 # FERRAMENTAS
+
+</div>
+
+<div align="center">
 
 ![Canva](https://img.shields.io/badge/Canva-%239D00FF.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+</div>
 
 ---
 
+<div align="center">
+
 # ESTATÍSTICAS
+
+</div>
 
 <div align="center">
   <table width="100%">
