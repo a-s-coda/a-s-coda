@@ -41,11 +41,13 @@
 
 # LINGUAGENS
 
-![Python](https://img.shields.io/badge/Python-9D00FF?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%239D00FF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%239D00FF.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%239D00FF.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%239D00FF.svg?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
+![C++](https://img.shields.io/badge/c++-%23FFFFFF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23FFFFFF.svg?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/css3-%23FFFFFF.svg?style=for-the-badge&logo=css3&logoColor=black)
+</div>
 
 # BIBLIOTECAS
 
