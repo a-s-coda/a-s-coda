@@ -15,17 +15,15 @@
 
 <img align="right" src="./Assets/graph.png" width="320" height="534"/>
 <img align="left" src="./Assets/tab.png" width="320" height="534"/>
-
-<blockquote>
-<h4>Desenvolvedor FullStack</h4>
-<h4>Foco em Segurança</h4>
-<h4>Alta Performance</h4>
-<h4>Entusiasta FinTech</h4>
-<h4>Integridade de Dados</h4>
+<div align="center">
+  <h4>Desenvolvedor FullStack</h4>
+  <h4>Foco em Segurança</h4>
+  <h4>Alta Performance</h4>
+  <h4>Entusiasta FinTech</h4>
+  <h4>Integridade de Dados</h4>
+</div>
 
 <br clear="both"/>
-
-</blockquote>
 
 ---
 
