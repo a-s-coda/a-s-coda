@@ -14,22 +14,16 @@
 # SOBRE MIM
 
 <img align="right" src="https://i.pinimg.com/736x/12/51/b3/1251b35557f61a3a244bdd1b5b6edd8a.jpg" width="320"/>
-<img align="left" src="https://i.pinimg.com/736x/6b/74/46/6b74466aafbad8978ef7726150a904b2.jpg" width="300"/>
+<img align="left" src="https://i.pinimg.com/736x/6b/74/46/6b74466aafbad8978ef7726150a904b2.jpg" width="210" height="534"/>
 
 <blockquote>
-<h3>Desenvolvedor FullStack</h3>
+<h4>Desenvolvedor FullStack</h4>
+<h4>Foco em Segurança</h4>
+<h4>Alta Performance</h4>
+<h4>Entusiasta FinTech</h4>
+<h4>Integridade de Dados</h4>
 
 </blockquote>
-
-```txt
-Resolver problemas não é uma obrigação
-entediante, é a chave para as vitórias
-              de cada dia
-```
-
-<br clear="all">
-
----
 
 ---
 
