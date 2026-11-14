@@ -13,28 +13,26 @@
 
 <h2>SOBRE MIM</h2>
 
-</div>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="./Assets/tab.png" width="220" height="360" />
+    </td>
+    <td align="center" valign="middle">
+      <br>
+      <h5>&nbsp;&nbsp;• Estudante de DS na Etec de Guaianazes •&nbsp;&nbsp;</h5>
+      <h5>• Em busca de conhecimento na área de TI •</h5>
+      <h5>• Alta Performance •</h5>
+      <h5>• Entusiasta do Mercado Financeiro •</h5>
+      <h5>• Aprendendo Bibliotecas com Python •</h5>
+      <br>
+    </td>
+    <td align="center" valign="middle">
+      <img src="./Assets/graph.png" width="220" height="360" />
+    </td>
+  </tr>
+</table>
 
-<img align="right" src="./Assets/graph.png" width="240" height="380"/>
-<img align="left" src="./Assets/tab.png" width="240" height="380"/>
-
-<br/>
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <br>
-        <h5>&nbsp;&nbsp;&nbsp;• Estudante de DS na Etec de Guaianazes •&nbsp;&nbsp;&nbsp;</h5>
-        <h5>• Em busca de conhecimento na área de TI •</h5>
-        <h5>• Alta Performance •</h5>
-        <h5>• Entusiasta do Mercado Financeiro •</h5>
-        <h5>• Aprendendo Bibliotecas com Python •</h5>
-        <br>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <br clear="both"/>
