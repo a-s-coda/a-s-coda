@@ -80,6 +80,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%23FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23FFFFFF.svg?style=for-the-badge&logo=figma&logoColor=black)
 ![VS Code](https://shields.io/badge/Vscode-%23FFFFFF.svg?style=for-the-badge&logo=Vscode&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23FFFFFF.svg?style=for-the-badge&logo=git&logoColor=black)
 
 </div>
 
