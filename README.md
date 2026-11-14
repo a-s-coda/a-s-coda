@@ -15,8 +15,8 @@
 
 </div>
 
-<img align="right" src="./Assets/graph.png" width="270" height="330"/>
-<img align="left" src="./Assets/tab.png" width="270" height="330"/>
+<img align="right" src="./Assets/graph.png" width="260" height="330"/>
+<img align="left" src="./Assets/tab.png" width="260" height="330"/>
 
 <br/>
 
