@@ -26,11 +26,11 @@
     <tr>
       <td align="center">
         <br>
-        <h4>&nbsp;&nbsp;&nbsp;•Estudante de DS na Etec de Guaianazes•&nbsp;&nbsp;&nbsp;</h4>
-        <h4>•Em busca de conhecimento na área de TI•</h4>
-        <h4>•Alta Performance•</h4>
-        <h4>•Entusiasta do Mercado Financeiro•</h4>
-        <h4>•Aprendendo Bibliotecas com Python•</h4>
+        <h5>&nbsp;&nbsp;&nbsp;• Estudante de DS na Etec de Guaianazes •&nbsp;&nbsp;&nbsp;</h5>
+        <h5>• Em busca de conhecimento na área de TI •</h5>
+        <h5>• Alta Performance •</h5>
+        <h5>• Entusiasta do Mercado Financeiro •</h5>
+        <h5>• Aprendendo Bibliotecas com Python •</h5>
         <br>
       </td>
     </tr>
