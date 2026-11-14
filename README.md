@@ -26,11 +26,11 @@
     <tr>
       <td align="center">
         <br>
-        <h3>&nbsp;&nbsp;&nbsp;• Desenvolvedor FullStack •&nbsp;&nbsp;&nbsp;</h3>
-        <h3>• Foco em Segurança •</h3>
-        <h3>• Alta Performance •</h3>
-        <h3>• Entusiasta FinTech •</h3>
-        <h3>• Integridade de Dados •</h3>
+        <h4>&nbsp;&nbsp;&nbsp;• Estudante de DS na Etec de Guaianazes •&nbsp;&nbsp;&nbsp;</h4>
+        <h4>• Em busca de conhecimento na área de TI •</h4>
+        <h4>• Alta Performance •</h4>
+        <h4>• Entusiasta do Mercado Financeiro •</h4>
+        <h4>• Aprendendo Bibliotecas com Python •</h4>
         <br>
       </td>
     </tr>
