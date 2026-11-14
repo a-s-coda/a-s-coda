@@ -79,7 +79,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%23FFFFFF.svg?style=for-the-badge&logo=Canva&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-%23FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23FFFFFF.svg?style=for-the-badge&logo=figma&logoColor=black)
-![VS Code](https://shields.io/badge/Vscode-%23FFFFFF.svg?style=for-the-badge&logo=figma&logoColor=black)
+![VS Code](https://shields.io/badge/Vscode-%23FFFFFF.svg?style=for-the-badge&logo=Vscode&logoColor=black)
 
 </div>
 
